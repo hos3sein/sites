@@ -1,0 +1,84 @@
+#header{
+/*	height: 350px;*/
+/*	background-color: red;*/
+margin-top: 100px;
+}
+
+
+
+#div2{
+/*	background-color: blueviolet;*/
+}
+
+
+
+#name{
+	font-size: 50px;
+	font-family: Cursive;
+/*	margin-left: 28%;*/
+}
+
+
+
+#pic1{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+/*	margin-left: 40%;*/
+}
+
+
+#profile{
+/*	margin-left: 37%;*/
+	font-size: 50px;
+}
+
+
+
+#projects{
+	font-size: 50px;
+}
+
+
+
+#div3{
+/*	background-color: red;*/
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+
+
+#instagram{
+/*	margin-left: 33.5%;*/
+/*	font-size: 50px;*/
+}
+
+
+
+
+#insta{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+
+#telegram{
+	width: 150px;
+	height: 150px;
+/*	border-radius: 70%;*/
+}
+
+
+#twitter{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+
+}
+
+
+#inputname{
+	margin-top: 30px;
+}
